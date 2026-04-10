@@ -97,8 +97,4 @@ dependencies {
     implementation 'com.makeramen:roundedimageview:2.3.0'
     implementation 'com.squareup.okhttp3:logging-interceptor:4.11.0'
 }
-
-
-##
-Тестовое задание выполнено для демонстрации навыков разработки под Android.
-Код отражает понимание адаптеров с разными типами, корутин, сетевых запросов, сохранения состояния фильтрации и пользовательского опыта при отсутствии интернета.
+```
