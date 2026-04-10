@@ -30,6 +30,7 @@
 ---
 
 ## 📂 Структура проекта
+```
 app/
 ├── adapter/
 │ └── Adapter.kt # RecyclerView.Adapter с тремя типами view (заголовок, жанр, фильм)
@@ -45,7 +46,7 @@ app/
 │ └── Films.kt # Data классы ответа API
 ├── MainActivity.kt # Активность-контейнер, проверка сети, навигация
 └── res/layout/ # Файлы разметки (fragment_choice, fragment_info, list_item_*)
-
+```
 
 
 ---
